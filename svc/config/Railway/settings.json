@@ -28,8 +28,8 @@
       "_comment5_1": "key - Admin Key to allow user to modify the Map",
       "_comment5_3": "sCompanyId - Your RP1 CompanyID",
 
-      "key":         "<MVSADMINKEY>",
-      "sCompanyId":  "<MYCOMPANYID>"
+      "key":         "a8F!2kL9#zQp4X",
+      "sCompanyId":  "flutter_vr"
    },
 
    "SQL": {
