@@ -1,4 +1,4 @@
-# MSF Map Service
+# MSF Map Service 
 
 **Metaverse spatial fabric map service** — A Node.js service that provides capabilities for reading and editing metaverse spatial fabrics. Part of the [Open Metaverse Browser](https://omb.metaverse-standards.org/) ecosystem.
 
